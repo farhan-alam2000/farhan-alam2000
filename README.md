@@ -1,16 +1,14 @@
-## Hi there 👋
+## Farhan Alam
 
-<!--
-**farhan-alam2000/farhan-alam2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack software developer at Morgan Stanley, working in the cybersecurity domain.
 
-Here are some ideas to get you started:
+### Tech I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript, TypeScript, Python, Java
+- **Frontend:** React, Next.js, Angular
+- **Backend:** Node.js, Spring Boot
+- **Databases:** PostgreSQL, MongoDB
+
+### Connect
+
+- LinkedIn: [https://www.linkedin.com/in/farhan-alam-2000/](https://www.linkedin.com/in/farhan-alam-2000/)
