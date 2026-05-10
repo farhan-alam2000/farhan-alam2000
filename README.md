@@ -12,3 +12,4 @@ Full-stack software developer at Morgan Stanley, working in the cybersecurity do
 ### Connect
 
 - LinkedIn: [https://www.linkedin.com/in/farhan-alam-2000/](https://www.linkedin.com/in/farhan-alam-2000/)
+- Email: [alaamm.farhan@gmail.com]
