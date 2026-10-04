@@ -7,7 +7,6 @@ Full-stack software developer at Morgan Stanley, working in the cybersecurity do
 - **Languages:** JavaScript, TypeScript, Python, Java
 - **Frontend:** React, Next.js, Angular
 - **Backend:** Node.js, Spring Boot
-- **Databases:** PostgreSQL, MongoDB
 
 ### Connect
 
